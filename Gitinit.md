@@ -38,8 +38,8 @@
 **git log --online**   более компактный журнал с комментариями 
 **git branch branch_name** создать новую ветку <branch_name >
 **git branch -d <branch name>** удаление ветки <branch_name >
- ## создали новую ветку info_create
- ## перешли на новую ветку 
+## создали новую ветку info_create
+## перешли на новую ветку 
 ## слили main & info_create
 ## удалили info_create
 
@@ -51,7 +51,7 @@
 
 ## Удалил <info_delitting_branch>
 
-
+## Слияние с <new_branch_to_merge>
  
 
 
