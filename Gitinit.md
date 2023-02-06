@@ -53,7 +53,9 @@
 
  ## сливаю main и только что созданную <info_delitting_branch>
 
+ ## Добавил нескоько файлов в .gitignore
  
+  
 
 
 
