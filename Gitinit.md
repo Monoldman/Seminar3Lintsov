@@ -48,10 +48,14 @@
 ##  создали новую ветку <info_delitting_branch> и сразу на нее переключились одной командой 
 
 ## Слил <main> & <info_delitting_branch>
+## Слил <main> & <new_branch_to_merge> и разрешил конфликт 
 
-## Удалил <info_delitting_branch>
 
-## Слияние с <new_branch_to_merge>
+
+
+
+ 
+
  
 
 
