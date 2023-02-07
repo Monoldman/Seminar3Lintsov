@@ -83,6 +83,9 @@
 ## Создаем новый репозиторий <Seminar3Lnitsov>
 
 **git remote add origin <https://github.com/Monoldman/Seminar3Lnitsov.git>** связывает наш локальный репозиторой с удаленным по ссвлке <. .>
+
+## Добавили удаленный репозиторий 
+
 git branch -M main
 git push -u origin main
 
