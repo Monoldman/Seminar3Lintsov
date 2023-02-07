@@ -86,7 +86,8 @@
 
 ## Добавили удаленный репозиторий 
 
-git branch -M main
+**git branch -M main** позволяет переименовать ветку, в которой нахожусь в Main
+
 git push -u origin main
 
 
