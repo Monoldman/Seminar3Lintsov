@@ -92,6 +92,7 @@
 
 ## Запустили команду <git push -u origin main>
 
+## Не работает команда <git log --all --online>
 
 
  
